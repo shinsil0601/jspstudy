@@ -1,0 +1,47 @@
+
+7월 10, 2023 10:34:53.802 NEW SESSION
+7월 10, 2023 10:34:53.802 [7660:2204:0710/103453.800:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+7월 21, 2023 17:03:29.924 NEW SESSION
+7월 21, 2023 17:03:29.924 [6704:11092:0721/170329.923:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 21, 2023 18:17:08.941 [5932:12808:0721/181708.941:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 21, 2023 18:22:37.949 [14880:5336:0721/182237.949:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+7월 24, 2023 11:06:33.357 NEW SESSION
+7월 24, 2023 11:06:33.357 [13416:10016:0724/110633.356:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 24, 2023 12:28:42.140 [13416:10016:0724/122842.140:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:42.669 [13416:10016:0724/122842.668:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:42.968 [13416:10016:0724/122842.968:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.03 [13416:10016:0724/122843.002:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.19 [13416:10016:0724/122843.019:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.53 [13416:10016:0724/122843.052:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.136 [13416:10016:0724/122843.136:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.154 [13416:10016:0724/122843.154:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.170 [13416:10016:0724/122843.170:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.269 [13416:10016:0724/122843.269:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:28:43.286 [13416:10016:0724/122843.286:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:29:02.592 [13416:10016:0724/122902.591:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 12:31:15.876 [13416:10016:0724/123115.875:ERROR:CONSOLE(1)] "Request Overlay.highlightNode failed. {"code":-32600,"message":"The node's document is not active"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+7월 24, 2023 14:37:14.790 [13416:10016:0724/143714.790:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+7월 24, 2023 14:56:18.545 [3476:8848:0724/145618.545:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 24, 2023 14:58:16.606 [2532:10624:0724/145816.606:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 24, 2023 14:59:02.928 [14096:14624:0724/145902.928:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 24, 2023 15:18:53.235 [10696:8236:0724/151853.235:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 24, 2023 15:46:48.359 [2696:4612:0724/154648.359:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+7월 26, 2023 15:06:23.579 NEW SESSION
+7월 26, 2023 15:06:23.579 [14612:12980:0726/150623.577:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 26, 2023 15:26:39.951 [15320:9724:0726/152639.951:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+7월 26, 2023 15:32:21.980 NEW SESSION
+7월 26, 2023 15:32:21.980 [748:12184:0726/153221.978:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 26, 2023 15:33:22.362 [748:13320:0726/153322.362:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+7월 26, 2023 15:34:23.417 [748:13320:0726/153423.417:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+8월 02, 2023 14:12:44.328 NEW SESSION
+8월 02, 2023 14:12:44.328 [11532:9464:0802/141244.326:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+8월 02, 2023 14:18:37.144 [5044:14428:0802/141837.144:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+8월 02, 2023 16:42:11.986 [5488:1120:0802/164211.985:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+8월 03, 2023 12:29:14.163 NEW SESSION
+8월 03, 2023 12:29:14.163 [4768:3932:0803/122914.162:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 

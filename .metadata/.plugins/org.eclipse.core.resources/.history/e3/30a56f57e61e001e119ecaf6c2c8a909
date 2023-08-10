@@ -1,0 +1,22 @@
+package com.guestbook2.model;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.guestbook2.db.DAO;
+
+public class DeleteOkCommand implements Command{
+	@Override
+	public String exec(HttpServletRequest request, HttpServletResponse response) {
+		// idx로 확인해서 일치하면 삭제
+		String idx = request.getParameter("idx");
+		int result = DAO.getDelte(idx);
+		
+		if (result > 0) {
+			return "GuestBook2?cmd = list";
+		} else {
+			return "guestbook2/error.jsp";
+		}
+		// 삭제하면 list로
+	}
+}
